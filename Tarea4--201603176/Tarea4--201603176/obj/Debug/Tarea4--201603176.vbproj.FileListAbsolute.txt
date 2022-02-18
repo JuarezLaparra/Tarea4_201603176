@@ -1,0 +1,12 @@
+C:\Users\jania\Downloads\yo\Proga092\PROGRA0952022\201603176--Tarea4\Tarea4_201603176\Tarea4--201603176\Tarea4--201603176\bin\Debug\Tarea4--201603176.exe.config
+C:\Users\jania\Downloads\yo\Proga092\PROGRA0952022\201603176--Tarea4\Tarea4_201603176\Tarea4--201603176\Tarea4--201603176\bin\Debug\Tarea4--201603176.exe
+C:\Users\jania\Downloads\yo\Proga092\PROGRA0952022\201603176--Tarea4\Tarea4_201603176\Tarea4--201603176\Tarea4--201603176\bin\Debug\Tarea4--201603176.pdb
+C:\Users\jania\Downloads\yo\Proga092\PROGRA0952022\201603176--Tarea4\Tarea4_201603176\Tarea4--201603176\Tarea4--201603176\bin\Debug\Tarea4--201603176.xml
+C:\Users\jania\Downloads\yo\Proga092\PROGRA0952022\201603176--Tarea4\Tarea4_201603176\Tarea4--201603176\Tarea4--201603176\obj\Debug\Tarea4--201603176.vbproj.AssemblyReference.cache
+C:\Users\jania\Downloads\yo\Proga092\PROGRA0952022\201603176--Tarea4\Tarea4_201603176\Tarea4--201603176\Tarea4--201603176\obj\Debug\Tarea4__201603176.Form1.resources
+C:\Users\jania\Downloads\yo\Proga092\PROGRA0952022\201603176--Tarea4\Tarea4_201603176\Tarea4--201603176\Tarea4--201603176\obj\Debug\Tarea4__201603176.Resources.resources
+C:\Users\jania\Downloads\yo\Proga092\PROGRA0952022\201603176--Tarea4\Tarea4_201603176\Tarea4--201603176\Tarea4--201603176\obj\Debug\Tarea4--201603176.vbproj.GenerateResource.cache
+C:\Users\jania\Downloads\yo\Proga092\PROGRA0952022\201603176--Tarea4\Tarea4_201603176\Tarea4--201603176\Tarea4--201603176\obj\Debug\Tarea4--201603176.vbproj.CoreCompileInputs.cache
+C:\Users\jania\Downloads\yo\Proga092\PROGRA0952022\201603176--Tarea4\Tarea4_201603176\Tarea4--201603176\Tarea4--201603176\obj\Debug\Tarea4--201603176.exe
+C:\Users\jania\Downloads\yo\Proga092\PROGRA0952022\201603176--Tarea4\Tarea4_201603176\Tarea4--201603176\Tarea4--201603176\obj\Debug\Tarea4--201603176.xml
+C:\Users\jania\Downloads\yo\Proga092\PROGRA0952022\201603176--Tarea4\Tarea4_201603176\Tarea4--201603176\Tarea4--201603176\obj\Debug\Tarea4--201603176.pdb
